@@ -1,0 +1,29 @@
+Quartus II Archive log --	E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/FSM.qarlog
+
+Archive:	E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/FSM.qar
+Date:		Mon Jul 15 13:12:18 2019
+Quartus II 64-Bit		13.0.0 Build 156 04/24/2013 SJ Full Version
+
+	=========== Files Selected: ===========
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/Collect.v
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/Show.v
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/Simulate.v
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/Waveform.vwf
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/control.v
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/db/task.sim.vwf
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/decoder7448.v
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/freq_divider.v
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/freq_divider2.v
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/freq_divider3.v
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/incremental_db/compiled_partitions/task.db_info
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/matrix_in.v
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/task.bdf
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/task.qpf
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/task.qsf
+E:/Code/Quartus/FSM(1)/FSM(1)/FSM/2019summer/timer.v
+E:/Code/Quartus/FSM/2019summer/Waveform.vwf
+d:/quartus13.0/altera/quartus/bin64/assignment_defaults.qdf
+	======= Total: 18 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
