@@ -1,0 +1,27 @@
+Quartus II Archive log --	E:/EDA1/EDA1.qarlog
+
+Archive:	E:/EDA1/EDA1.qar
+Date:		Sun Dec 02 17:17:49 2018
+Quartus II 64-Bit		13.0.0 Build 156 04/24/2013 SJ Full Version
+
+	=========== Files Selected: ===========
+E:/EDA1/Calculator.vwf
+E:/EDA1/Waveform.vwf
+E:/EDA1/all.bdf
+E:/EDA1/all.vwf
+E:/EDA1/calculator.bdf
+E:/EDA1/counter.bdf
+E:/EDA1/counter.vwf
+E:/EDA1/db/sum1.sim.vwf
+E:/EDA1/decoder24.bdf
+E:/EDA1/incremental_db/compiled_partitions/sum1.db_info
+E:/EDA1/sum1.bdf
+E:/EDA1/sum1.qpf
+E:/EDA1/sum1.qsf
+E:/EDA1/sum4.bdf
+E:/EDA1/sum4.vwf
+d:/quartus/quartus/bin64/assignment_defaults.qdf
+	======= Total: 16 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
