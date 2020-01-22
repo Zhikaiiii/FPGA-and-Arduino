@@ -1,0 +1,26 @@
+Quartus II Archive log --	E:/EDA2/EDA2.qarlog
+
+Archive:	E:/EDA2/EDA2.qar
+Date:		Thu Dec 27 10:47:37 2018
+Quartus II 64-Bit		13.0.0 Build 156 04/24/2013 SJ Full Version
+
+	=========== Files Selected: ===========
+E:/EDA2/EDA2.qpf
+E:/EDA2/EDA2.qsf
+E:/EDA2/FSM.v
+E:/EDA2/FSM_tb.v
+E:/EDA2/Matrix.v
+E:/EDA2/Matrix_tb.v
+E:/EDA2/Show.v
+E:/EDA2/Show_tb.v
+E:/EDA2/all2.bdf
+E:/EDA2/db/EDA2.sim.vwf
+E:/EDA2/decoder7448.v
+E:/EDA2/decoder7448_tb.v
+E:/EDA2/divideClk.v
+E:/EDA2/incremental_db/compiled_partitions/EDA2.db_info
+d:/quartus/quartus/bin64/assignment_defaults.qdf
+	======= Total: 15 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
